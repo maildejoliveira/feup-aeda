@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/matil/Documents/feup/2_MIEIC_2020-21/1_Semestre/AEDA/aeda2021_p06/Tests/counter.cpp
+queue
+-
+cstdlib
+-
+counter.h
+C:/Users/matil/Documents/feup/2_MIEIC_2020-21/1_Semestre/AEDA/aeda2021_p06/Tests/counter.h
+exceptions.h
+C:/Users/matil/Documents/feup/2_MIEIC_2020-21/1_Semestre/AEDA/aeda2021_p06/Tests/exceptions.h
+
+C:/Users/matil/Documents/feup/2_MIEIC_2020-21/1_Semestre/AEDA/aeda2021_p06/Tests/counter.h
+iostream
+-
+queue
+-
+
+C:/Users/matil/Documents/feup/2_MIEIC_2020-21/1_Semestre/AEDA/aeda2021_p06/Tests/exceptions.h
+string
+-
+

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/matil/Documents/feup/2_MIEIC_2020-21/1_Semestre/AEDA/aeda2021_p02/Tests/vehicle.cpp
+vehicle.h
+C:/Users/matil/Documents/feup/2_MIEIC_2020-21/1_Semestre/AEDA/aeda2021_p02/Tests/vehicle.h
+iostream
+-
+
+C:/Users/matil/Documents/feup/2_MIEIC_2020-21/1_Semestre/AEDA/aeda2021_p02/Tests/vehicle.h
+string
+-
+

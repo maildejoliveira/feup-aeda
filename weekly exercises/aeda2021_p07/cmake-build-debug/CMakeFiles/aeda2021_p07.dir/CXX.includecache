@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/matil/Documents/feup/2_MIEIC_2020-21/1_Semestre/AEDA/aeda2021_p07/Tests/binaryTree.h
+iostream
+-
+stack
+-
+queue
+-
+
+C:/Users/matil/Documents/feup/2_MIEIC_2020-21/1_Semestre/AEDA/aeda2021_p07/Tests/game.cpp
+game.h
+C:/Users/matil/Documents/feup/2_MIEIC_2020-21/1_Semestre/AEDA/aeda2021_p07/Tests/game.h
+sstream
+-
+bits/stdc++.h
+-
+
+C:/Users/matil/Documents/feup/2_MIEIC_2020-21/1_Semestre/AEDA/aeda2021_p07/Tests/game.h
+binaryTree.h
+C:/Users/matil/Documents/feup/2_MIEIC_2020-21/1_Semestre/AEDA/aeda2021_p07/Tests/binaryTree.h
+iostream
+-
+stdlib.h
+-
+
