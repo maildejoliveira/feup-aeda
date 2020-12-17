@@ -1,0 +1,8 @@
+﻿  ReadingClub.cpp
+C:\Users\matil\Documents\feup\2_MIEIC_2020-21\1_Semestre\AEDA\past cpis\aeda1617-cpi3\Project2\Project2\ReadingClub.h(25,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\matil\Documents\feup\2_MIEIC_2020-21\1_Semestre\AEDA\past cpis\aeda1617-cpi3\Project2\Project2\ReadingClub.cpp(76,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\matil\Documents\feup\2_MIEIC_2020-21\1_Semestre\AEDA\past cpis\aeda1617-cpi3\Project2\Project2\ReadingClub.cpp(96,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\matil\Documents\feup\2_MIEIC_2020-21\1_Semestre\AEDA\past cpis\aeda1617-cpi3\Project2\Project2\ReadingClub.cpp(121,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\matil\Documents\feup\2_MIEIC_2020-21\1_Semestre\AEDA\past cpis\aeda1617-cpi3\Project2\Project2\ReadingClub.cpp(138,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\matil\Documents\feup\2_MIEIC_2020-21\1_Semestre\AEDA\past cpis\aeda1617-cpi3\Project2\Project2\ReadingClub.cpp(180,20): warning C4018: '<': signed/unsigned mismatch
+  Project2.vcxproj -> C:\Users\matil\Documents\feup\2_MIEIC_2020-21\1_Semestre\AEDA\past cpis\aeda1617-cpi3\Project2\Debug\Project2.exe

@@ -1,0 +1,13 @@
+﻿  Expertize.cpp
+  FEUPConsulting.cpp
+C:\Users\matil\Documents\feup\2_MIEIC_2020-21\1_Semestre\AEDA\past cpis\aeda1718-cpi3\Project1\Project1\FEUPConsulting.h(26,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\matil\Documents\feup\2_MIEIC_2020-21\1_Semestre\AEDA\past cpis\aeda1718-cpi3\Project1\Project1\FEUPConsulting.cpp(68,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\matil\Documents\feup\2_MIEIC_2020-21\1_Semestre\AEDA\past cpis\aeda1718-cpi3\Project1\Project1\FEUPConsulting.cpp(104,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\matil\Documents\feup\2_MIEIC_2020-21\1_Semestre\AEDA\past cpis\aeda1718-cpi3\Project1\Project1\FEUPConsulting.cpp(160,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\matil\Documents\feup\2_MIEIC_2020-21\1_Semestre\AEDA\past cpis\aeda1718-cpi3\Project1\Project1\FEUPConsulting.cpp(161,46): warning C4018: '>=': signed/unsigned mismatch
+  Project.cpp
+  Tests.cpp
+C:\Users\matil\Documents\feup\2_MIEIC_2020-21\1_Semestre\AEDA\past cpis\aeda1718-cpi3\Project1\Project1\FEUPConsulting.h(26,21): warning C4018: '<': signed/unsigned mismatch
+  Student.cpp
+  Generating Code...
+  Project1.vcxproj -> C:\Users\matil\Documents\feup\2_MIEIC_2020-21\1_Semestre\AEDA\past cpis\aeda1718-cpi3\Project1\Debug\Project1.exe

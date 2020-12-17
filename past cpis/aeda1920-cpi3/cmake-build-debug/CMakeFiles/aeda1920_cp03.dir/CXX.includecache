@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/matil/Documents/feup/2_MIEIC_2020-21/1_Semestre/AEDA/aeda1920-cpi3/Tests/Gallery.cpp
+Gallery.h
+C:/Users/matil/Documents/feup/2_MIEIC_2020-21/1_Semestre/AEDA/aeda1920-cpi3/Tests/Gallery.h
+ostream
+-
+
+C:/Users/matil/Documents/feup/2_MIEIC_2020-21/1_Semestre/AEDA/aeda1920-cpi3/Tests/Gallery.h
+bst.h
+C:/Users/matil/Documents/feup/2_MIEIC_2020-21/1_Semestre/AEDA/aeda1920-cpi3/Tests/bst.h
+vector
+-
+unordered_set
+-
+queue
+-
+Paint.h
+C:/Users/matil/Documents/feup/2_MIEIC_2020-21/1_Semestre/AEDA/aeda1920-cpi3/Tests/Paint.h
+
+C:/Users/matil/Documents/feup/2_MIEIC_2020-21/1_Semestre/AEDA/aeda1920-cpi3/Tests/Paint.h
+string
+-
+ostream
+-
+
+C:/Users/matil/Documents/feup/2_MIEIC_2020-21/1_Semestre/AEDA/aeda1920-cpi3/Tests/bst.h
+iostream
+-
+stack
+-
+queue
+-
+
